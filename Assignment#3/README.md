@@ -4,6 +4,6 @@ make_moons(n_samples=300, noise=0.05) – non-spherical clusters with noise (DBS
 make_blobs(n_samples=300, centers=3, cluster_std=[1.0, 2.5, 0.5]) – varying densities (DBSCAN struggles)
 make_circles(n_samples=300, factor=0.5, noise=0.05) – nested circular clusters (DBSCAN works well)
 
-How to Run
-Open the jupyter notebook clustering_analysis.ipynb
-Run all cells to generate visualizations and compare results
+How to Run:
+Open the jupyter notebook clustering_analysis.ipynb.
+Run all cells to generate visualizations and compare results.
