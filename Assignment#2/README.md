@@ -9,6 +9,6 @@ This project implements regression and classification models using the UCI Heart
 1. Open 'Main.ipynb' in Jupyter or VS Code.
 2. Run all cells to train and evaluate models.
 
-Requirements:
+# Requirements:
 - Python
 - pandas, numpy, scikit-learn, matplotlib, seaborn
